@@ -1,0 +1,28 @@
+diff a/Assets/Scenes/StartScene.unity b/Assets/Scenes/StartScene.unity	(rejected hunks)
+@@ -269,16 +269,24 @@
+       objectReference: {fileID: 0}
+     - target: {fileID: 4000013398816010, guid: dd2790e2e6908dd4b9b04202ef70eaef, type: 2}
+       propertyPath: m_LocalRotation.z
+-      value: 0
++      value: 0.013962198
+       objectReference: {fileID: 0}
+     - target: {fileID: 4000013398816010, guid: dd2790e2e6908dd4b9b04202ef70eaef, type: 2}
+       propertyPath: m_LocalRotation.w
+-      value: 1
++      value: 0.9999026
+       objectReference: {fileID: 0}
+     - target: {fileID: 4000013398816010, guid: dd2790e2e6908dd4b9b04202ef70eaef, type: 2}
+       propertyPath: m_RootOrder
+       value: 2
+       objectReference: {fileID: 0}
++    - target: {fileID: 4000013398816010, guid: dd2790e2e6908dd4b9b04202ef70eaef, type: 2}
++      propertyPath: m_LocalScale.y
++      value: 1.46
++      objectReference: {fileID: 0}
++    - target: {fileID: 4000013398816010, guid: dd2790e2e6908dd4b9b04202ef70eaef, type: 2}
++      propertyPath: m_LocalEulerAnglesHint.z
++      value: 1.6
++      objectReference: {fileID: 0}
+     m_RemovedComponents: []
+   m_ParentPrefab: {fileID: 100100000, guid: dd2790e2e6908dd4b9b04202ef70eaef, type: 2}
+   m_IsPrefabParent: 0
